@@ -1,0 +1,25 @@
+// Here you can add other styles
+.product-description {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.product-white-love {
+    margin-top: 1.5rem !important;
+    position: absolute;
+    right: 10%;
+    top: 0%;
+    color: #fff;
+    cursor: pointer;
+}
+
+.product-green-love {
+    margin-top: 1.5rem !important;
+    position: absolute;
+    right: 10%;
+    top: 0%;
+    color: #0f0;
+    cursor: pointer;
+}
